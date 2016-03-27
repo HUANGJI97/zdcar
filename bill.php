@@ -7,7 +7,7 @@
 	else{$user=$_SESSION['username'];}
 ?>
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>自点科技-开单1</title>
+    <title>自点科技-开单</title>
     <meta name="renderer" content="webkit">
     <meta charset="utf-8">
     
